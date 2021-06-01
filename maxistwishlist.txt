@@ -13,7 +13,6 @@ description: This is a collection of perks that Youtubers recommended/ I found.
 
 // Fatebringer
 //notes:Datto Minor perks should focus on range.  For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second.
-// dimwishlist:item=2171478765&perks=3038247973,3824105627, 3418782618, 4104185692, 1015611457, 47981717, 2726471870
 
 dimwishlist:item=2171478765&perks=3038247973,4104185692
 dimwishlist:item=2171478765&perks=3038247973,3824105627
@@ -26,3 +25,21 @@ dimwishlist:item=2171478765&perks=3418782618,1015611457
 //notes: Datto PvP, Killing Wind and Opening Shot.  Range MW
 dimwishlist:item=2171478765&perks=2450788523,47981717
 dimwishlist:item=2171478765&perks=2450788523,47981717
+
+// Vision of Confluence: 
+//notes: Fluted Barrel, personal choice, then Rewind Rounds and either Firefly, Kill Clip, Disruption Break or Frenzy.  DB should be for piercing Barrier shields of champions.  
+dimwishlist:item=3186018373&perks=1840239774,3418782618,3824105627
+dimwishlist:item=3186018373&perks=1840239774,3418782618,1015611457
+dimwishlist:item=3186018373&perks=1840239774,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1840239774,3418782618,4104185692
+
+//notes: For PvP uhh... Killing Wind or Tunnel Vision and Kill Clip?  Why are you using a 180 in PvP?  Any MW
+dimwishlist:item=3186018373&perks=2946784966,1015611457
+dimwishlist:item=3186018373&perks=2450788523,1015611457
+
+// Praedyth's Revenge: 
+//notes: Fluted Barrel, Tactical Mag, Rewind Rounds and High Caliber Rounds for PvE for sustain damage.  
+
+//notes: PvP will be Fluted, I don't think you really need a mag perk here, so either Accurized or Steady Rounds, then personal choice of Quickdraw/No Distractions/Moving Target and Opening shot for air shots or... I guess anything else really, not Adren Junkie.  MW depends on its use.
+dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188
+
