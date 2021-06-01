@@ -1,7 +1,7 @@
 title:Maxistviews' Wishlist
 description: This is a collection of perks that Youtubers recommended/ I found.
 
-// File URL for DIM: https://raw.githubusercontent.com/maxistviews/DIMWishlist/main/maxistwishlist
+// File URL for DIM: https://raw.githubusercontent.com/maxistviews/DIMWishlist/main/maxistwishlist.txt
 // 3824105627 Firefly
 // 3038247973 Explosive Payload
 // 3418782618 Rewind Rounds
@@ -13,7 +13,14 @@ description: This is a collection of perks that Youtubers recommended/ I found.
 
 // Fatebringer
 //notes:Datto Minor perks should focus on range.  For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second.
-dimwishlist:item=2171478765&perks=3038247973,3824105627, 3418782618, 4104185692, 1015611457, 47981717, 2726471870
+// dimwishlist:item=2171478765&perks=3038247973,3824105627, 3418782618, 4104185692, 1015611457, 47981717, 2726471870
 
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,1015611457
+
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+dimwishlist:item=2171478765&perks=3418782618,1015611457
 
 //notes: Datto PvP, Killing Wind and Opening Shot.  Range MW
