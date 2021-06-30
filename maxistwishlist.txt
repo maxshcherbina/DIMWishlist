@@ -45,19 +45,24 @@ dimwishlist:item=3186018373&perks=2450788523,1015611457
 //notes: PvP will be Fluted, I don't think you really need a mag perk here, so either Accurized or Steady Rounds, then personal choice of Quickdraw/No Distractions/Moving Target and Opening shot for air shots or... I guess anything else really, not Adren Junkie.  MW depends on its use.
 dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188
 
-
+/////////////////////
 // SEASON OF SPLICER
+/////////////////////
 
 // GRIDSKIPPER
 // notes: PVE - thresh frenzy
 dimwishlist:item=1621558458&perks=4090651448,3230963543,1570042021,2458213969,2697220197
-
 //notes: PVP - heating up & snapshot sights. Arrowhead or chambered comp w ricochet is white whale (MBD) Tunnel vision with MKC is also good
 dimwishlist:item=1621558458&perks=1467527085,1885400500,1570042021,957782887,2697220197
 
 //CHROMA RUSH
 // notes: PVE 
 dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,3425386926,2697220197
-
 //notes: PVP - polygonal rifling, small bore, chambered comp - steady rounds? tactical or flared mag, perks: Tunnel Vision & KillClip OR Heating Up
 dimwishlist:item=1119734784&perks=4090651448,3142289711,2946784966,3425386926,2697220197
+
+//FAREWELL
+//notes: PVE
+
+//notes: PVP Heating Up Frenzy
+dimwishlist:item=541188001&perks=1482024992,3177308360,2946784966,2458213969,2697220197
