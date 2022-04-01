@@ -10,8 +10,8 @@ description: This is a collection of perks that Youtubers recommended/ I found. 
 // 47981717   Opening Shot
 // 2726471870 Thresh
 
-// Pointed Inquiry - Fallout Rolls Pv (pve)
-//notes: Fallout Rolls Pv tags:pve
+// Pointed Inquiry - Fallout Rolls PvE (pve)
+//notes: Fallout Rolls PvE tags:pve
 dimwishlist:item=297296830&perks=3096702027,1048183818
 dimwishlist:item=297296830&perks=3096702027,3431277734
 dimwishlist:item=297296830&perks=3096702027,2848615171
@@ -208,8 +208,8 @@ dimwishlist:item=999767358&perks=848860060,3563868667
 dimwishlist:item=999767358&perks=848860060,2284787283
 
 
-// Perses-D - Fallout Rolls Pv (pve)
-//notes: Fallout Rolls Pv tags:pve
+// Perses-D - Fallout Rolls PvE (pve)
+//notes: Fallout Rolls PvE tags:pve
 dimwishlist:item=1019000888&perks=124408337
 dimwishlist:item=1019000888&perks=3038247973
 dimwishlist:item=1019000888&perks=1546637391
