@@ -1,5 +1,33 @@
-#THE SUPREMACY
+//THE SUPREMACY
 
 dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1354429876
 
-#Chattering bone
+//Chattering bone
+dimwishlist:item=501329015&perks=1015611457,3425386926
+dimwishlist:item=501329015&perks=1015611457,3891536761
+dimwishlist:item=501329015&perks=247725512,3891536761
+
+//Transfiguration
+dimwishlist:item=3885259140&perks=3425386926,1015611457
+dimwishlist:item=3885259140&perks=3418782618,3038247973
+dimwishlist:item=3885259140&perks=3418782618,3891536761
+dimwishlist:item=3885259140&perks=247725512,3891536761
+
+//Age-Old Bond
+dimwishlist:item=424291879&perks=776531651,2610012052
+dimwishlist:item=424291879&perks=2848615171,2610012052
+// Super void debuff build
+dimwishlist:item=424291879&perks=776531651,2048641572
+
+
+//Techeun Force
+dimwishlist:item=3591141932&perks=3418782618,2594592626
+dimwishlist:item=3591141932&perks=1523832109,2594592626
+
+dimwishlist:item=3591141932&perks=1015611457,2594592626
+
+//nation of beasts
+dimwishlist:item=70083888&perks=2848615171,1015611457
+
+//tyranny of heaven
+dimwishlist:item=3388655311&perks=201365942,4293542123
